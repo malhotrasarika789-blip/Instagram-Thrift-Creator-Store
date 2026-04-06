@@ -49,7 +49,7 @@ It models how creators sell thrift products, manage inventory, and handle custom
 
 ##  ER Diagram
 
-![ER Diagram](./er-diagram.png)
+![alt text](<Screenshot 2026-04-06 204505-1.png>)
 
 ---
 
